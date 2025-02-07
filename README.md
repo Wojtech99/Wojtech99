@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi 👋, I'm Wojciech Nabiałkowski
-🌱 I’m currently learning Java, Spring and TypeScript, Angular and Docker
+🌱 I’m currently learning Java, Spring and TypeScript, React and Docker
 
 <!--
 **Wojtech99/Wojtech99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
